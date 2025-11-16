@@ -38,6 +38,7 @@ This project is written entirely in Python and demonstrates the use of functions
 Clone the repository and run the program:
 
 ```bash
-git clone https://github.com/thanos-coder2/math-multitool.git
+git clone https://github.com/thanos-coder2/math-multitool-python.git
 cd math-multitool
 python multitool.py
+
