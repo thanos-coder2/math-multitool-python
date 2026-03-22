@@ -1,4 +1,4 @@
-Copyright (c) 2025 thanos-coder2
+Copyright (c) 2026 thanos-coder2
 All rights reserved.
 
 Math Multi-Tool Program — Non-Commercial License
