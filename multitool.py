@@ -34,7 +34,6 @@ def square_root(a):  # Square root with error handling
         return "Error: Negative number"
     return round(math.sqrt(a), 2)
 
-
 # --- Binary operations ---
 def binary_or(a, b):  # Binary OR
     return int(a) | int(b)
@@ -64,7 +63,6 @@ def greater_than(a, b):  # Greater than
 
 def less_than(a, b):  # Less than
     return a < b
-
 
 # --- Practice quiz function ---
 def practice_quiz():
@@ -102,7 +100,6 @@ def practice_quiz():
             print(f"Invalid input. Correct answer was {correct_answer}")
 
     print(f"\nFinal score: {score}/{total}")
-
 
 # --- Main program loop ---
 while True:
